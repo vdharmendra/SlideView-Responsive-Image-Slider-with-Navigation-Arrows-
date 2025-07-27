@@ -47,17 +47,17 @@ slideview/
 - Autoplay / Looping: Add extra logic in script.js if needed.
 
 <span>👉 Desktop Design</span><br/>
-<a href="#" target="_blank" >
+<a href="https://www.behance.net/gallery/231243549/Responsive-Image-Slider-with-Navigation-Arrows" target="_blank" >
 <img src="./img/SlideView.gif" width="575px"/>
 </a>
 
 <span>👉 Desktop Design</span><br/>
-<a href="#" target="_blank" >
+<a href="https://www.behance.net/gallery/231243549/Responsive-Image-Slider-with-Navigation-Arrows" target="_blank" >
 <img src="./img/lp1.png" width="275px"/>
 <img src="./img/lp2.png" width="275px"/>
 </a>
 
 <span>👉 Cover Design</span><br/>
-<a href="#" target="_blank" >
+<a href="https://www.behance.net/gallery/231243549/Responsive-Image-Slider-with-Navigation-Arrows" target="_blank" >
 <img src="./img/cover.png" width="375px"/>
 </a>
